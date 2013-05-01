@@ -12,6 +12,7 @@
 
     <modules>
         <module>JPA_2.0_Cache</module>
+        <module>Hibernate</module>
     </modules>
     
 </project>
